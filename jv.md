@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JV
-description: jv.md page right here.
+description: JV Volleyball
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
