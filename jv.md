@@ -8,12 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 ## JV
+#### Coach: Andrew Barlos
 
 
 
 <div class="table-wrapper">
-
-	<h2></h2>
 
 	<h3>Roster</h3>
 	<div class="table-wrapper">
@@ -27,29 +26,69 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td>Item 1</td>
-					<td>This item costs money.</td>
+					<td>1</td>
+					<td>Vicky Chen</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Jessica Mai</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Claire Mchugh</td>
 					<td>29.99</td>
 				</tr>
 				<tr>
-					<td>Item 2</td>
-					<td>And this one is not free either.</td>
+					<td>4</td>
+					<td>Mireya Haran</td>
 					<td>19.99</td>
 				</tr>
 				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
+					<td>5</td>
+					<td>Tali Vittum</td>
 					<td>29.99</td>
 				</tr>
 				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
+					<td>6</td>
+					<td>Gracie Simoncic</td>
+					<td>Soph</td>
 				</tr>
 				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
+					<td>7</td>
+					<td>Danielle Anderson</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>Lucy Zises</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>Ilma Sarajlic</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>Alexandra Nader</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>Deanna Johnson</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>Sofi Penglase</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>Sisy Chen</td>
+					<td>Soph</td>
 				</tr>
 			</tbody>
 			<tfoot>
