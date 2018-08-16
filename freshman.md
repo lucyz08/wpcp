@@ -27,35 +27,69 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td>Item 1</td>
-					<td>This item costs money.</td>
-					<td>29.99</td>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
 				</tr>
 				<tr>
-					<td>Item 2</td>
-					<td>And this one is not free either.</td>
-					<td>19.99</td>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
 				</tr>
 				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
-					<td>29.99</td>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
 				</tr>
 				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
-				</tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr><tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
 			</tbody>
 			<tfoot>
 				<tr>
 					<td colspan="2"></td>
-					<td>100.00</td>
+					<td></td>
 				</tr>
 			</tfoot>
 		</table>

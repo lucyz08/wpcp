@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Varsity
-#### Coach: Alex Grassl
+#### [Coach: Alex Grassl](mailto:alexandragrasslvb@gmail.com)
 
 
 <div class="table-wrapper">
@@ -27,35 +27,80 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td>Item 1</td>
-					<td>This item costs money.</td>
-					<td>29.99</td>
+					<td></td>
+					<td>Claire McDermott</td>
+					<td>Snr</td>
 				</tr>
 				<tr>
-					<td>Item 2</td>
-					<td>And this one is not free either.</td>
-					<td>19.99</td>
+					<td></td>
+					<td>Claire Aterkson</td>
+					<td>Snr</td>
 				</tr>
 				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
-					<td>29.99</td>
+					<td></td>
+					<td>Izzy Costanzo</td>
+					<td>Snr</td>
 				</tr>
 				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
+					<td></td>
+					<td>Mallory Kirk</td>
+					<td>Snr</td>
 				</tr>
 				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
+					<td></td>
+					<td>Bella Heltmach</td>
+					<td>Jnr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Mary Ellis</td>
+					<td>Jnr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Emmy Smith</td>
+					<td>Jnr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Maya Llewyellen</td>
+					<td>Jnr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Grace Miller</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Grace Miller</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Luci Costanzo</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Vivi Crowley</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Sophia Dorn</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Lillian Kibby</td>
+					<td>Fr</td>
 				</tr>
 			</tbody>
 			<tfoot>
 				<tr>
 					<td colspan="2"></td>
-					<td>100.00</td>
+					<td></td>
 				</tr>
 			</tfoot>
 		</table>

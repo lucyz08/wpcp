@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Team Results"
-date:   2018-08-15
+title:  "Freshmen News"
+date:   2018-08-16
 excerpt: "Check back soon!"
-image: "/images/pic02.jpg"
+image: "/images/pic04.jpg"
 ---
 
 ## First game: August 23rd
