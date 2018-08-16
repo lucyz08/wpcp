@@ -8,6 +8,9 @@ sitemap:
     changefreq: weekly
 ---
 ## JV
+
+<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a> 
+
 #### Coach: Andrew Barlos
 
 

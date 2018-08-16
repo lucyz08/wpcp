@@ -8,7 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 ## Varsity
-#### [Coach: Alex Grassl](mailto:alexandragrasslvb@gmail.com)
+
+<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a> 
+
+#### Coach: Alex Grassl
+##### Email: alexandragrasslvb@gmail.com
 
 
 <div class="table-wrapper">
@@ -29,42 +33,42 @@ sitemap:
 				<tr>
 					<td></td>
 					<td>Claire McDermott</td>
-					<td>Snr</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>Claire Aterkson</td>
-					<td>Snr</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>Izzy Costanzo</td>
-					<td>Snr</td>
+					<td>Isabella Costanzo</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>Mallory Kirk</td>
-					<td>Snr</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>Bella Heltmach</td>
-					<td>Jnr</td>
+					<td>Isabella Heltmach</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>Mary Ellis</td>
-					<td>Jnr</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>Emmy Smith</td>
-					<td>Jnr</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>Maya Llewyellen</td>
-					<td>Jnr</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
 					<td></td>

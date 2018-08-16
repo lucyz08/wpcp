@@ -2,7 +2,7 @@
 layout: post
 title:  "Team Events"
 date:   2018-08-15
-excerpt: "More info soon!"
+excerpt: "Senior Night, Banquet, etc.!"
 image: "/images/pic04.jpg"
 ---
 

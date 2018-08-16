@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Freshmen
-description: Freshmen Volleyball
+title: Freshman
+description: Freshman Volleyball
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Freshmen
+## Freshman
+
+<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a> 
+
+#### Coach: Kat
+
 
 
 <div class="table-wrapper">
@@ -24,8 +29,18 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td>21</td>
-					<td>TEST</td>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
 					<td>Fr</td>
 				</tr>
 				<tr>
@@ -42,46 +57,42 @@ sitemap:
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
+				</tr>
+				<tr>
 					<td></td>
 					<td></td>
 					<td>Fr</td>
-				</tr><tr>
-					<td></td>
-					<td></td>
-					<td>Fr</td>
-				</tr><tr>
-					<td></td>
-					<td></td>
-					<td>Fr</td>
-				</tr><tr>
-					<td></td>
-					<td></td>
-					<td>Fr</td>
+				</tr>
 			</tbody>
 			<tfoot>
 				<tr>
@@ -91,4 +102,3 @@ sitemap:
 			</tfoot>
 		</table>
 	</div>
-
