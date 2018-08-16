@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Freshmen
-description: freshman.md page right here.
+description: Freshmen Volleyball
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -10,10 +10,7 @@ sitemap:
 ## Freshmen
 
 
-
 <div class="table-wrapper">
-
-	<h2></h2>
 
 	<h3>Roster</h3>
 	<div class="table-wrapper">
@@ -27,8 +24,8 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td></td>
-					<td></td>
+					<td>21</td>
+					<td>TEST</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
