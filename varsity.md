@@ -73,11 +73,6 @@ sitemap:
 				</tr>
 				<tr>
 					<td></td>
-					<td>Grace Miller</td>
-					<td>Soph</td>
-				</tr>
-				<tr>
-					<td></td>
 					<td>Luci Costanzo</td>
 					<td>Soph</td>
 				</tr>
