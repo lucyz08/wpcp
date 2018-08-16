@@ -13,8 +13,6 @@ sitemap:
 			<div class="4u"><span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
- </div>
+ 		</div>
 </div>
-
-
 	
