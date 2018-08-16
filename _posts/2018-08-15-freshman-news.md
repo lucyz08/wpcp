@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Freshmen News"
-date:   2018-08-16
-excerpt: "Check back soon!"
+title:  "Team Events"
+date:   2018-08-15
+excerpt: "More info soon!"
 image: "/images/pic04.jpg"
 ---
 
-## First game: August 23rd
+## Senior Night, Banquet, Dig Pink + more!
 
-## Results to come!
+## More info to come!
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: This is the photos.md file 
 description: The photos.md file right here..
 sitemap:

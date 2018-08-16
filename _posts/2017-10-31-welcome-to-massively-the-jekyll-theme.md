@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Team Results"
-date:   2018-08-15
+date:   2017-10-31
 excerpt: "Check back soon!"
 image: "/images/pic02.jpg"
 ---
