@@ -38,17 +38,17 @@ sitemap:
 				<tr>
 					<td>3</td>
 					<td>Claire Mchugh</td>
-					<td>29.99</td>
+					<td>Fr</td>
 				</tr>
 				<tr>
 					<td>4</td>
 					<td>Mireya Haran</td>
-					<td>19.99</td>
+					<td>Soph</td>
 				</tr>
 				<tr>
 					<td>5</td>
 					<td>Tali Vittum</td>
-					<td>29.99</td>
+					<td>Soph</td>
 				</tr>
 				<tr>
 					<td>6</td>
@@ -58,12 +58,12 @@ sitemap:
 				<tr>
 					<td>7</td>
 					<td>Danielle Anderson</td>
-					<td>Fr</td>
+					<td>Soph</td>
 				</tr>
 				<tr>
 					<td>8</td>
 					<td>Lucy Zises</td>
-					<td>Fr</td>
+					<td>Soph</td>
 				</tr>
 				<tr>
 					<td>9</td>
@@ -94,7 +94,7 @@ sitemap:
 			<tfoot>
 				<tr>
 					<td colspan="2"></td>
-					<td>100.00</td>
+					<td></td>
 				</tr>
 			</tfoot>
 		</table>
