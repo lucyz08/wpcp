@@ -9,9 +9,10 @@ sitemap:
 ---
 ## JV
 
-<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a> 
+<a href="#" class="image main"><img src="{{ "/images/luau.jpg" | absolute_url }}" alt="" /></a> 
 
 #### Coach: Andrew Barlos
+##### Email: [andbarlos92@gmail.com](mailto:andbarlos92@gmail.com)
 
 
 

@@ -9,9 +9,9 @@ sitemap:
 ---
 ## Freshman
 
-<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a> 
+<a href="#" class="image main"><img src="{{ "/images/varfresh.jpg" | absolute_url }}" alt="" /></a> 
 
-#### Coach: Kat
+#### Coach: Kat Ryan
 
 
 
