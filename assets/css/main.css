@@ -2719,7 +2719,7 @@
 
 		header > .date {
 			display: block;
-			font-size: 0.8rem;
+			font-size: 0.0rem;
 			height: 1;
 			margin: 0 0 1rem 0;
 			position: relative;
@@ -3671,7 +3671,7 @@
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: #;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
