@@ -3107,7 +3107,7 @@
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
 		position: relative;
-		cursor: default;
+		cursor: default;ffffff
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
@@ -3154,8 +3154,8 @@
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #ffffff;
-			color: #ffffff !important;
+			box-shadow: inset 0 0 0 2px #ef8418;
+			color: #ef8418 !important;
 		}
 
 			#intro input[type="submit"]:hover,
