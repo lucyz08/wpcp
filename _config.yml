@@ -3,8 +3,8 @@ title:              Payton Volleyball
 bio:                'Walter Payton College Prep Volleyball'
 description:        "Official page of the Walter Payton College Prep High School Girl's Volleyball Program in Chicago"
 locale:             en_US\
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "http://lucyz08.github.io/wpcp" # the subpath of your site, e.g. /blog
+url: "http://paytonvolleyball.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
