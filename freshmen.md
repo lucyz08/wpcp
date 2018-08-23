@@ -11,7 +11,7 @@ sitemap:
 
 <a href="#" class="image main"><img src="{{ "/images/varfresh.jpg" | absolute_url }}" alt="" /></a> 
 
-#### Coach: Kat Ryan
+#### Coach: Cat Ryan
 
 
 
