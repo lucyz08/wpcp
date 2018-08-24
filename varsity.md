@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/varfresh.jpg" | absolute_url }}" alt="" /></a> 
+<a href="#" class="image main"><img src="{{ "/images/IMG_5002.jpg" | absolute_url }}" alt="" /></a> 
 
 #### Coach: Alex Grassl
 ##### Email: [alexandragrasslvb@gmail.com](mailto:alexandragrasslvb@gmail.com)
