@@ -94,6 +94,11 @@ sitemap:
 					<td>Sisy Chen</td>
 					<td>Soph</td>
 				</tr>
+				<tr>
+					<td>Team Manager</td>
+					<td>Fay Laures</td>
+					<td>Soph</td>
+				</tr>
 			</tbody>
 			<tfoot>
 				<tr>
