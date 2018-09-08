@@ -12,6 +12,7 @@ sitemap:
 <a href="#" class="image main"><img src="{{ "/images/varfresh.jpg" | absolute_url }}" alt="" /></a> 
 
 #### Coach: Cat Ryan
+##### Email: [catryan15@gmail.com](mailto:catryan15@gmail.com)
 
 
 
