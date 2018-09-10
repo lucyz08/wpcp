@@ -31,67 +31,77 @@ sitemap:
 			<tbody>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Ruth Bouman</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Sophia Carlson</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Natalie Cavallo</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Atiya Chiphe</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Caitlin Froning</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Annie Hinz</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Sophia Iturralde</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Maya Kafali</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Caitlyn Li</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Eileen Li</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Tiffany Liao</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td></td>
+					<td>Jayna McGruder</td>
 					<td>Fr</td>
 				</tr>
 				<tr>
 					<td></td>
+					<td>Cameran Moy</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
 					<td></td>
+					<td>Cameron Sullivan</td>
+					<td>Fr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Jessica Zhang</td>
 					<td>Fr</td>
 				</tr>
 			</tbody>
