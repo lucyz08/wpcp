@@ -15,4 +15,4 @@ sitemap:
 			<a href="https://zises.smugmug.com/WPCP-Website/JV/n-r8MqjT" target="_blank">
 			<p><span class="image left"><img src="{{ "/images/claire.jpg" | absolute_url }}" alt="" /></span><br><br><br>Click <strong>HERE</strong> all JV photos!</p>
 			<a href="https://zises.smugmug.com/WPCP-Website/Freshmen/n-PntsdK" target="_blank">
-			<p><span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span><br><br><br>Click <strong>HERE</strong> all freshman photos!</p>
+			<p><span class="image left"><img src="{{ "/images/freshmen.jpg" | absolute_url }}" alt="" /></span><br><br><br>Click <strong>HERE</strong> all freshman photos!</p>
