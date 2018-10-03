@@ -31,69 +31,69 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td></td>
-					<td>Claire McDermott</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Claire Aterkson</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
+					<td>1</td>
 					<td>Isabella Costanzo</td>
 					<td>Sr</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td>Mallory Kirk</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Isabella Heltmach</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Mary Ellis</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Emmy Smith</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Maya Llewyellen</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Grace Miller</td>
-					<td>Soph</td>
-				</tr>
-				<tr>
-					<td></td>
+					<td>2</td>
 					<td>Luci Costanzo</td>
 					<td>Soph</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td>Vivi Crowley</td>
-					<td>Soph</td>
+					<td>3</td>
+					<td>Claire McDermott</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
-					<td></td>
+					<td>4</td>
+					<td>Claire Atkerson</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>Isabella Heltmach</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>Emmy Smith</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>7</td>
 					<td>Sophia Dorn</td>
 					<td>Soph</td>
 				</tr>
 				<tr>
-					<td></td>
+					<td>8</td>
+					<td>Maya Llewyellen</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>Mary Ellis</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>Grace Miller</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>11</td>
 					<td>Lillian Kibby</td>
 					<td>Fr</td>
+				</tr>
+				<tr>
+					<td>12</td>
+					<td>Vivi Crowley</td>
+					<td>Soph</td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>Mallory Kirk</td>
+					<td>Sr</td>
 				</tr>
 			</tbody>
 			<tfoot>
