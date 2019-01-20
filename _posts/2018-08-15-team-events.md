@@ -24,8 +24,13 @@ image: "/images/jvhud.jpg"
 
 <div class="7u"><span class="image fit"><img src="{{ "/images/digpink.jpg" | absolute_url }}" alt="" /></span></div> 
 
-##### Octover 10, 2018
+##### October 10, 2018
 <p>Senior night!! Thank you to our amazing seniors for everything! We will miss them greatly and can't wait to see what they do in the future. We love you, Claire, Mallory, Izzy, and Claire!!</p>
 
 
 <div class="7u"><span class="image fit"><img src="{{ "/images/seniors.jpg_large" | absolute_url }}" alt="" /></span></div>
+
+##### October 25, 2018
+<p> Varisty wins Regional Championship in a 2-0 win over Little Village! Congrats Grizzlies!!</p>
+
+ <div class="7u"><span class="image fit"><img src="{{ "/images/regionals.jpg" | absolute_url }}" alt="" /></span></div>
