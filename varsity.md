@@ -9,15 +9,16 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/IMG_5002.jpg" | absolute_url }}" alt="" /></a> 
+<a href="#" class="image main"><img src="{{ "/images/IMG_5002.jpg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Alex Grassl
 ##### Email: [alexandragrasslvb@gmail.com](mailto:alexandragrasslvb@gmail.com)
+##### Phone: 608-205-7103
 
 
 <div class="table-wrapper">
 
-	
+
 
 	<h3>Roster</h3>
 	<div class="table-wrapper">
@@ -104,4 +105,3 @@ sitemap:
 			</tfoot>
 		</table>
 	</div>
-
