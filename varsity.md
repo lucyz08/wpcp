@@ -9,11 +9,11 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/IMG_5002.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/.jpg" | absolute_url }}" alt="" /></a>
 
-#### Coach: Alex Grassl
-##### Email: [alexandragrasslvb@gmail.com](mailto:alexandragrasslvb@gmail.com)
-##### Phone: 608-205-7103
+#### Coach: Darcy Leslie
+##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
+
 
 
 <div class="table-wrapper">
@@ -32,69 +32,74 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td>1</td>
-					<td>Isabella Costanzo</td>
+					<td></td>
+					<td>Bella Heltmach</td>
 					<td>Sr</td>
 				</tr>
 				<tr>
-					<td>2</td>
-					<td>Luci Costanzo</td>
-					<td>Soph</td>
-				</tr>
-				<tr>
-					<td>3</td>
-					<td>Claire McDermott</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td>4</td>
-					<td>Claire Atkerson</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td>5</td>
-					<td>Isabella Heltmach</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td>6</td>
-					<td>Emmy Smith</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td>7</td>
-					<td>Sophia Dorn</td>
-					<td>Soph</td>
-				</tr>
-				<tr>
-					<td>8</td>
-					<td>Maya Llewyellen</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td>9</td>
+					<td></td>
 					<td>Mary Ellis</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Emmy Smith</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Maya Llewellyn</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Jenna Barac</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Grace Miller</td>
 					<td>Jr</td>
 				</tr>
 				<tr>
-					<td>10</td>
-					<td>Grace Miller</td>
-					<td>Soph</td>
+					<td></td>
+					<td>Luci Costanzo</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
-					<td>11</td>
-					<td>Lillian Kibby</td>
-					<td>Fr</td>
+					<td></td>
+					<td>Sisy Chen</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
-					<td>12</td>
+					<td></td>
+					<td>Lucy Zises</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td></td>
 					<td>Vivi Crowley</td>
-					<td>Soph</td>
+					<td>Jr</td>
 				</tr>
 				<tr>
-					<td>14</td>
-					<td>Mallory Kirk</td>
-					<td>Sr</td>
+					<td></td>
+					<td>Tali Vittum</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Sophia Dorn</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>Claire McHugh</td>
+					<td>So</td>
+				</tr>
+        <tr>
+					<td></td>
+					<td>Lily Kibby</td>
+					<td>So</td>
 				</tr>
 			</tbody>
 			<tfoot>
