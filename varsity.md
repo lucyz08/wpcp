@@ -32,74 +32,74 @@ sitemap:
 			</thead>
 			<tbody>
 				<tr>
-					<td></td>
-					<td>Bella Heltmach</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Mary Ellis</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Emmy Smith</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Maya Llewellyn</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Jenna Barac</td>
-					<td>Sr</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td>Grace Miller</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
+					<td>1</td>
 					<td>Luci Costanzo</td>
 					<td>Jr</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td>Sisy Chen</td>
-					<td>Jr</td>
+					<td>2</td>
+					<td>Jenna Barac</td>
+					<td>Sr</td>
 				</tr>
 				<tr>
-					<td></td>
-					<td>Lucy Zises</td>
-					<td>Jr</td>
-				</tr>
-				<tr>
-					<td></td>
+					<td>3</td>
 					<td>Vivi Crowley</td>
 					<td>Jr</td>
 				</tr>
 				<tr>
-					<td></td>
+					<td>4</td>
 					<td>Tali Vittum</td>
 					<td>Jr</td>
 				</tr>
 				<tr>
-					<td></td>
+					<td>5</td>
+					<td>Bella Heltmach</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td>6</td>
 					<td>Sophia Dorn</td>
 					<td>Jr</td>
 				</tr>
 				<tr>
-					<td></td>
+					<td>7</td>
+					<td>Mary Ellis</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>Emmy Smith</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>Maya Llewellyn</td>
+					<td>Sr</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>Grace Miller</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>12</td>
 					<td>Claire McHugh</td>
 					<td>So</td>
 				</tr>
-        <tr>
-					<td></td>
+				<tr>
+					<td>13</td>
+					<td>Sisy Chen</td>
+					<td>Jr</td>
+				</tr>
+				<tr>
+					<td>14</td>
 					<td>Lily Kibby</td>
 					<td>So</td>
+				</tr>
+        <tr>
+					<td>15</td>
+					<td>Lucy Zises</td>
+					<td>Jr</td>
 				</tr>
 			</tbody>
 			<tfoot>
