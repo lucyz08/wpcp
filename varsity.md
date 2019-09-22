@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/VarsityVball02.jpg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Darcy Leslie
 ##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
@@ -81,6 +81,11 @@ sitemap:
 					<td>Grace Miller</td>
 					<td>Jr</td>
 				</tr>
+        <tr>
+					<td>11</td>
+					<td>Lucy Zises</td>
+					<td>Jr</td>
+				</tr>
 				<tr>
 					<td>12</td>
 					<td>Claire McHugh</td>
@@ -95,11 +100,6 @@ sitemap:
 					<td>14</td>
 					<td>Lily Kibby</td>
 					<td>So</td>
-				</tr>
-        <tr>
-					<td>15</td>
-					<td>Lucy Zises</td>
-					<td>Jr</td>
 				</tr>
 			</tbody>
 			<tfoot>
