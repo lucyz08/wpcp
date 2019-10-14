@@ -12,10 +12,25 @@ image: "/images/jvhud.jpg"
 
 <br>
 
+<h5>October 11, 2019</h5>
+<p>Varsity advances to the CPS Semi Finals after beating Lane at Lane! Payton fans packed the gym to watch the Grizzlies win in 3; 21-25 L, 25-22 W, 25-15 W. One of the most exciting games of the season! </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCkuNJngyUk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h5>October 7, 2019</h5>
+<p>Senior night! This year we had 5 amazing seniors and it was so nice to celebrate them! Thanks for all your hard work and dedication, Bella, Emmy, Maya, Mary, and Jenna! We will miss you all so much and can't wait to see you accomplish in the future! </p>
+
+<div class="7u"><span class="image fit"><img src="{{ "/images/seniornight.jpg" | absolute_url }}" alt="" /></span></div>
+
+
 <h5>October 1, 2019</h5>
-<p>Today we had our Pink Out game to fundraise for Recovery on Water, a Chicago based organization that helps breast cancer survivors regain strength through sports! Varsity beat Lane Tech in 3 sets, with the 3rd ending at 30-28. It was one of the most exciting games of the season, and thanks to everyone to came to support!
+<p>Today we had our Pink Out game to fundraise for Recovery on Water, a Chicago based organization that helps breast cancer survivors regain strength through sports! Varsity beat Lane Tech in 3 sets, with the 3rd ending at 30-28. It was one of the most exciting games of the season, and thanks to everyone to came to support!</p>
 
 <div class="7u"><span class="image fit"><img src="{{ "/images/pinkteampic.jpg" | absolute_url }}" alt="" /></span></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LOHtyHWIV20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h5>September 2, 2019</h5>
 <p>Some of the Varsity and JV team went to Hardware Crossfit to get in a little extra conditioning! We did kettlebell swings, box jumps, running, burpees, and wall-balls. Thanks to Hardware and everyone who came for such a fun time!</p>
