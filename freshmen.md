@@ -11,8 +11,8 @@ sitemap:
 
 <a href="#" class="image main"><img src="{{ "/images/.jpg" | absolute_url }}" alt="" /></a>
 
-#### Coach:
-##### Email: []()
+#### Coach: Mary Hobbs
+##### Email: [mhobbs5@cps.edu](mailto:mhobbs5@cps.edu)
 
 
 
@@ -29,7 +29,7 @@ sitemap:
 				</tr>
 			</thead>
 			<tbody>
-	
+
 			</tbody>
 			<tfoot>
 				<tr>

@@ -9,10 +9,10 @@ sitemap:
 ---
 ## JV
 
-<a href="#" class="image main"><img src="{{ "/images/JVTeam2.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "" | absolute_url }}" alt="" /></a>
 
-#### Coach:
-##### Email: []()
+#### Coach: Zulema Dorado
+##### Email: [zhdorado@cps.edu](mailto:zhdorado@cps.edu)
 
 
 
@@ -35,82 +35,82 @@ sitemap:
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Alexia Oliveira</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Alexis Patterson</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Carly Gillman</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Cate Lepinskas</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Chloe Jackson</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Claire McGowan</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Hailan Yu</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Kat Lazos</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Lauren Flood</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Libby Gardner</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Lily Suskind</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Mackenzie Cote</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Olivia Dumas</th>
         <th>10</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Sarina Levy</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Selin Adigozel</th>
         <th>9</th>
       </tr>
       <tr>
-        <th>Number</th>
+        <th></th>
         <th>Zoe Schnack</th>
         <th>10</th>
       </tr>

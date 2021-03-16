@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/VarsityVball02.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "" | absolute_url }}" alt="" /></a>
 
 #### Coach: Darcy Leslie
 ##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
@@ -31,7 +31,76 @@ sitemap:
 				</tr>
 			</thead>
 			<tbody>
-				
+      <tr>
+        <th></th>
+        <th>Alexandra Nader</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Claire McHugh</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Gabby Scholtes</th>
+        <th>10</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Ilma Sarajlic</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Luciana Costanzo</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Lucy Zises</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Ruth Bouman</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Sisy Chen</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Sophia Carlson</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Sophia Dorn</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Tali Vittum</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Ellie Fulkerson</th>
+        <th>10</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Tiffany Liao</th>
+        <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Eileen Li</th>
+        <th>11</th>
+      </tr>
 			</tbody>
 			<tfoot>
 				<tr>
