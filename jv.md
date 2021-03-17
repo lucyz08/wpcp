@@ -9,7 +9,7 @@ sitemap:
 ---
 ## JV
 
-<a href="#" class="image main"><img src="{{ "/images/jvPlaceholder.jpeg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/jvPlaceholder.jpg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Zulema Dorado
 ##### Email: [zhdorado@cps.edu](mailto:zhdorado@cps.edu)

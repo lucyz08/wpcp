@@ -3,7 +3,7 @@ layout: post
 title:  "Team Events"
 date:   2018-08-15
 excerpt: ""
-image: "/images/SeniorNight.jpeg"
+image: "/images/SeniorNight20.jpg"
 
 ---
 
