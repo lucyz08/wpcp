@@ -9,7 +9,7 @@ sitemap:
 ---
 ## JV
 
-<a href="#" class="image main"><img src="{{ "" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/jvPlaceholder.jpeg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Zulema Dorado
 ##### Email: [zhdorado@cps.edu](mailto:zhdorado@cps.edu)
@@ -31,7 +31,7 @@ sitemap:
 			<tbody>
       <tr>
         <th></th>
-        <th>Alayza Crus</th>
+        <th>Alayza Cruz</th>
         <th>10</th>
       </tr>
       <tr>

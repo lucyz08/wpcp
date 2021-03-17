@@ -9,10 +9,10 @@ sitemap:
 ---
 ## Freshman
 
-<a href="#" class="image main"><img src="{{ "/images/.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "" | absolute_url }}" alt="" /></a>
 
-#### Coach: Mary Hobbs
-##### Email: [mhobbs5@cps.edu](mailto:mhobbs5@cps.edu)
+#### Coach:
+##### Email: []()
 
 
 

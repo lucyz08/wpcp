@@ -9,10 +9,14 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/varsity2021.jpeg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Darcy Leslie
 ##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
+#### Assistant Coach: Taylor Malloy
+##### Email: [djleslie@cps.edu](mailto:taylor.malloy@gmail.com)
+
+
 
 
 
@@ -40,6 +44,11 @@ sitemap:
         <th></th>
         <th>Claire McHugh</th>
         <th>11</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>Ellie Fulkerson</th>
+        <th>10</th>
       </tr>
       <tr>
         <th></th>
@@ -85,11 +94,6 @@ sitemap:
         <th></th>
         <th>Tali Vittum</th>
         <th>12</th>
-      </tr>
-      <tr>
-        <th></th>
-        <th>Ellie Fulkerson</th>
-        <th>10</th>
       </tr>
       <tr>
         <th></th>
