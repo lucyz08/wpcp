@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/varsity2021.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/v2021.jpg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Darcy Leslie
 ##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
