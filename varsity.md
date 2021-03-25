@@ -9,12 +9,12 @@ sitemap:
 ---
 ## Varsity
 
-<a href="#" class="image main"><img src="{{ "/images/v2021.jpg" | absolute_url }}" alt="" /></a>
+<a href="#" class="image main"><img src="{{ "/images/VB2021web.jpg" | absolute_url }}" alt="" /></a>
 
 #### Coach: Darcy Leslie
 ##### Email: [djleslie@cps.edu](mailto:djleslie@cps.edu)
 #### Assistant Coach: Taylor Malloy
-##### Email: [djleslie@cps.edu](mailto:taylor.malloy@gmail.com)
+##### Email: [taylor.malloy@gmail.com](mailto:taylor.malloy@gmail.com)
 
 
 
@@ -36,72 +36,72 @@ sitemap:
 			</thead>
 			<tbody>
       <tr>
-        <th></th>
+        <th>13</th>
         <th>Alexandra Nader</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>11</th>
         <th>Claire McHugh</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>14</th>
         <th>Ellie Fulkerson</th>
         <th>10</th>
       </tr>
       <tr>
-        <th></th>
+        <th>5</th>
         <th>Gabby Scholtes</th>
         <th>10</th>
       </tr>
       <tr>
-        <th></th>
+        <th>9</th>
         <th>Ilma Sarajlic</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>1</th>
         <th>Luciana Costanzo</th>
         <th>12</th>
       </tr>
       <tr>
-        <th></th>
+        <th>10</th>
         <th>Lucy Zises</th>
         <th>12</th>
       </tr>
       <tr>
-        <th></th>
+        <th>2</th>
         <th>Ruth Bouman</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>8</th>
         <th>Sisy Chen</th>
         <th>12</th>
       </tr>
       <tr>
-        <th></th>
+        <th>12</th>
         <th>Sophia Carlson</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>7</th>
         <th>Sophia Dorn</th>
         <th>12</th>
       </tr>
       <tr>
-        <th></th>
+        <th>4</th>
         <th>Tali Vittum</th>
         <th>12</th>
       </tr>
       <tr>
-        <th></th>
+        <th>3</th>
         <th>Tiffany Liao</th>
         <th>11</th>
       </tr>
       <tr>
-        <th></th>
+        <th>6</th>
         <th>Eileen Li</th>
         <th>11</th>
       </tr>
